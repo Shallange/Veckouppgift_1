@@ -7,7 +7,7 @@ Detta repository innehåller lösningar till veckouppgifter. Varje uppgift finns
 Mappar för varje uppgift med relaterad kod och filer.
 
 ## Uppgift 1
-### [main.py](uppgift_1/main.py)
+#### [main.py](uppgift_1/main.py)
 Ett program som skriver ut: 
 Hello world 
 This program was made by jimmy
@@ -16,15 +16,15 @@ This program was made by jimmy
 ---
 
 ## Uppgift 2
-### [main.py](uppgift_2/main.py)
+#### [main.py](uppgift_2/main.py)
 Denna uppgift innehåller en diskussionsfråga om biljettpriser och förbättrade variabelnamn. Koden handlar om att beräkna skillnaden mellan pengar på fickan och biljettpris samt att visa halva det återstående beloppet.
 
 ---
 
 ## Uppgift 3
-### [1a_b.py](uppgift_3/1a_b.py)
+#### [1a_b.py](uppgift_3/1a_b.py)
 Ett program där användaren matar in två heltal och programmet beräknar summan av dessa.
-### [2a_b.py](uppgift_3/2a_b.py)
+#### [2a_b.py](uppgift_3/2a_b.py)
 Ett program som räknar ut priset efter en rabatt för en jacka och låter användaren mata in procenten för rabatten.
 
 ---

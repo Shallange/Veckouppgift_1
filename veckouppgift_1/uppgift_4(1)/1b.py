@@ -1,6 +1,5 @@
-"""
-Gör så att programmet svarar i minuter istället
-"""
+#Gör så att programmet svarar i minuter istället
+
 distance = 470 #km
 speed = int(input("Hur fort planerar du att köra? (km/h): "))
 

@@ -1,13 +1,4 @@
-"""
-1c (svårare) Nu ska programmet svara i hela timmar och minuter.
-Tips: använd operatorerna // och %. Heltalsdivision // dividerar och avrundar nedåt till närmaste heltal. 
-Procent % räknar ut resten vid division med heltal. Exempel:
-3 // 2 == 1      (3 / 2 == 1.5, avrundar nedåt)
-60 % 60 == 0  (ingen rest)
-70 % 60 == 10  (10 i rest)
-Be en AI förklara heltalsdivision och modulo i Python om du känner dig osäker!
-"""
-
+#1c (svårare) Nu ska programmet svara i hela timmar och minuter.
 distance = 470 #km
 speed = int(input("Hur fort planerar du att köra? (km/h): "))
 

@@ -21,7 +21,7 @@ temperature_type_input = input("Vill du ange graderna i Farhenheit eller celcius
 
 
 if temperature_type_input == "f":
-    fahrenheit_input = float(input("Skriv in en temperatur i farenheigt: "))
+    fahrenheit_input = float(input("Skriv in en temperatur i farenheit: "))
     celcius = convert_to_celsius(fahrenheit_input)
     print(f"Det blir {print_format_temp(celcius)} grader celcius.")
     what_to_wear_celc(celcius)
